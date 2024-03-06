@@ -1,4 +1,3 @@
-# PrimeiroProjetoHTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -36,7 +35,10 @@
         <li><a href="https://harrypotter.fandom.com/pt-br/wiki/Sonserina" title="casa da serpente" target="_blank"> <strong style="color: darkgreen;">Sonserina |  </strong><small><i>Slytherin</i></small></a> </li>
         <li><a href="https://harrypotter.fandom.com/pt-br/wiki/Lufa-Lufa" title="casa do texugo" target="_blank"> <strong style="color: gold;">Lufa lufa | </strong><small><i>Ravenclaw</i></small></a>  </li>
         <li><a herf="https://harrypotter.fandom.com/pt-br/wiki/Corvinal" title="casa do corvo" target="_blank"><strong style="color: blue;">Corvinal | </strong> <small><i>Hufflepuff</small></i></a> </li>
-     </ol>
+            </ol>
 
-</body>
-</html>
+    <h4><strong>Magias mais ultilizadas nos filmes</strong> </h4>
+    <ul>
+<li><a href="https://harrypotter.fandom.com/pt-br/wiki/Feiti%C3%A7o_de_Desarme" title="feitiço do desarme" target="_blank"><strong>Expeliarmus</strong></i></a></li>
+    <li><a href="https://harrypotter.fandom.com/pt-br/wiki/Feiti%C3%A7o_de_Levita%C3%A7%C3%A3o" title="feitiço do desarme" target="_blank"><i>Wingardium Leviosa</i></a></li>
+        
